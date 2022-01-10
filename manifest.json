@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Background",
+    "description": "Adding a custom background",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/image 16.png",
+        "48": "/images/image 48.png",
+        "128": "/images/image 128.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "/images/image 16 - 2.png",
+            "48": "/images/image 48 - 2.png",
+            "128": "/images/image 128 - 2.png"
+        }
+    }
+}
